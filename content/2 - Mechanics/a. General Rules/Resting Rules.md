@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Resting Rules.md
 created: 2025-12-22T10:18:36.684-06:00
-modified: 2026-04-28T20:47:13.219-05:00
-published: 2026-04-28T20:47:13.219-05:00
+modified: 2026-09-07T10:22:29.864-05:00
+published: 2026-09-07T10:22:29.864-05:00
 tags:
   - Rules
 ---
@@ -25,6 +25,30 @@ A long rest is a period of extended downtime, at least 8 hours long, during whic
 At the end of a long rest, a character regains all lost [[Combat Rules#Hit Points|hit points]]. The character also regains spent [[Character Advancement Rules#Hit Points and Hit Dice|Hit Dice]], up to a number of dice equal to half of the character’s total number of them (minimum of one die). For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest.
 
 A character can’t benefit from more than one long rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
+
+# Sleep
+
+**Source:** Xanathar's Guide to Everything, pg. 77
+
+Just as in the ral world, D\&D characters spend many hours sleeping, most often as part of a [[Resting Rules#Long Rest|long rest]]. Most monsters also need to sleep. While a creature sleeps, it is subjected to the [[Conditions#Unconscious|unconscious condition]]. Here are a few rules that expand on that basic fact.
+
+## Waking Someone
+
+A creature that is naturally sleeping, as opposed to being in a magically or chemically induced sleep, wakes up if it takes any damage or if someone else uses an [[Combat Rules#Your Turn|action]] to shake or slap the creature awake. A sudden loud noise — such as yelling, thunder, or a ringing bell — also awakens someone sleeping naturally.
+
+Whispers don't disturb sleep, unless a sleeper's [[Ability Scores#Passive Checks|passive Wisdom (Perception)]] score is 20 or higher and the whispers are within 10 feet of the sleeper. Speech at a normal volume awakens a sleeper if the environment is otherwise silent (no wind, birdsong, crickets, street sounds, or the like) and the sleeper has a passive Wisdom (Perception) score of 15 or higher.
+
+## Sleeping in Armor
+
+Sleeping in [[Armor Rules#Light Armor|light armor]] has no adverse effect on the wearer, but sleeping in [[Armor Rules#Medium Armor|medium]] or [[Armor Rules#Heavy Armor|heavy]] armor makes it difficult to recover fully during a [[Resting Rules#Long Rest|long rest]].
+
+When you finish a long rest during which you slept in medium or heavy armor, you regain only one quarter of your spent Hit Dice (minimum of one die). If you have any levels of [[Conditions#Exhaustion|exhaustion]], the rest doesn't reduce your exhaustion level.
+
+## Going Without a Long Rest
+
+A [[Resting Rules#Long Rest|long rest]] is never mandatory, but going without sleep does have its consequences. If you want to account for the effects of sleep deprivation on characters and creatures, use these rules.
+
+Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of exhaustion. It becomes harder to fight off exhaustion if you stay awake for multiple days. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.
 
 # Homebrew Resting Rules
 

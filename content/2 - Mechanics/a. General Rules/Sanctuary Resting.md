@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Sanctuary Resting.md
 created: 2025-09-21T19:24:55.657-05:00
-modified: 2026-09-02T13:31:44.860-05:00
-published: 2026-09-02T13:31:44.860-05:00
+modified: 2026-09-07T10:24:31.114-05:00
+published: 2026-09-07T10:24:31.114-05:00
 tags:
   - Rules
   - Homebrew
@@ -11,7 +11,7 @@ tags:
 
 Sanctuary resting is a homebrew rule that changes when and where it is possible to gain the benefits of a [[Resting Rules#Long Rest|long rest]]. In order to receive the benefits of a long rest, a creature must take the entirety of its rest within a location that qualifies as a sanctuary.
 
-If a creature takes a long rest in a location that doesn't meet the requirements of a sanctuary, that creature receives the benefits of a [[Resting Rules#Short Rest|short rest]], instead of a long rest upon completing its resting. A creature receives no penalty for forgoing a long rest when they rest in this way.
+If a creature takes a long rest in a location that doesn't meet the requirements of a sanctuary, that creature receives the benefits of a [[Resting Rules#Short Rest|short rest]] and regains one Hit Die, instead of the benifits long rest upon completing its resting. A creature receives no penalty for [[Resting Rules#Going Without a Long Rest|forgoing a long rest]] when they rest in this way.
 
 ## Sanctuary
 

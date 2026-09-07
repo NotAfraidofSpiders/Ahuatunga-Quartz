@@ -2,8 +2,8 @@
 publish: true
 permalink: /2 - Mechanics/a. General Rules/Spellcasting/Spellcasting Rules.md
 created: 2025-12-15T14:52:39.840-06:00
-modified: 2026-04-27T16:15:10.760-05:00
-published: 2026-04-27T16:15:10.760-05:00
+modified: 2026-09-07T17:07:32.856-05:00
+published: 2026-09-07T17:07:32.856-05:00
 tags:
   - Rules
 ---
@@ -151,6 +151,14 @@ If you place an area of effect at a point that you can’t see and an obstructio
 
 If a spell targets a creature of your choice, you can choose yourself, unless the creature must be hostile or specifically a creature other than you. If you are in the area of effect of a spell you cast, you can target yourself.
 
+### Invalid Spell Targets
+
+**Source:** Xanathar's Guide to Everything, pg. 85
+
+A spell specifies what a caster can target with it: any type of creature, a creature of a certain type (humanoid or beast, for instance), an object, an area, the caster, or something else. But what happens if a spell targets something that isn't a valid target? For example, someone might cast _[[Spells#Charm Person|charm person]]_ on a creature believed to be a humanoid, not knowing that the target is in fact a vampire. If this issue comes up, handle it using the following rule:
+
+If you cast a spell on someone or something that can't be affected by the spell, nothing happens to that target, but if you used a spell slot to cast the spell, the slot is still expended. If the spell normally has no effect on a target that succeeds on a saving throw, the invalid target appears to have succeeded on its saving throw, even though it didn't attempt one (giving no hint that the creature is in fact an invalid target). Otherwise, you percieve that the spell did nothing to the target.
+
 ## Areas of Effect
 
 Spells such as _[[Spells#Burning Hands|burning hands]]_ and _[[Spells#Cone of Cold|cone of cold]]_ cover an area, allowing them to affect multiple creatures at once.
@@ -242,3 +250,25 @@ Transmutation spells change the properties of a creature, object, or environment
 The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don’t combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap.
 
 For example, if two clerics cast _[[Spells#Bless|bless]]_ on the same target, that character gains the spell’s benefit only once; he or she doesn’t get to roll two bonus dice.
+
+# Additional Spellcasting Rules
+
+**Source:** Xanathar's Guide to Everything, pg. 85
+
+This section expands on the spellcasting rules presented in the _Player's Handbook_ and the _Dungeon Master's Guide_, providing clarifications and new options.
+
+## Percieving a Caster at Work
+
+Many spells create obvious effects: explosions of fire, walls of ice, teleportation, and the like. Other spells, such as _[[Spells#Charm Person|Charm Person]]_, display no visible, audible, or otherwise perceptible sign of their effects, and coud easily go unnoticed by someone unaffected by them. As noted in the _Player's Handbook_, you normally don't know that a spell has been cast unless the spell produces a noticeable effect.
+
+But what about the act of casting a spell? Is it possible for someone to percieve that a spell is being cast in their presence? To be perceptible, the casting of a spell must invovle a [[Spellcasting Rules#Verbal (V)|verbal]], [[Spellcasting Rules#Somatic (S)|somatic]], or [[Spellcasting Rules#Material (M)|material]] component. The form of a material component doesn't matter for the purposes of perception, whether it's an object specified in the spell's description, a [[Adventuring Gear#Component Pouch|component pouch]], or a spellcasting focus.
+
+If the need for a spell's components has been removed by a special ability, such as the [[Sorcerer#Metamagic#Subtle Spell|sorcerer's Subtle Spell feature]] or the Innate Spellcasting trait possessed by many creatures, the casting of the spell is imperceptable. If an imperceptable casting produces a perceptible effect, it's normally impossible to determine who cast the spell in the absence of other evidence.
+
+## Identifying a Spell
+
+Sometimes a character wants to identify a spell that someone else is casting or that was already cast. To do so, a character can use their [[Combat Rules#Reactions|reaction]] to identify a spell as it's being cast, or they can use an [[Combat Rules#Your Turn|action]] on their turn to identify a spell by its effect after it is cast.
+
+If the character percived the casting, the spell's effect, or both, the character can make an [[Ability Scores#Intelligence Checks|Intelligence (Arcana) check]] with the reaction or action. The DC equals 15 + the spells level. If the spell is cast as a class spell and the character is a member of that class, the check is made with [[Ability Scores#Advantage and Disadvantage|advantage]]. For example, if the spellcaster csts a spell as a [[Cleric|cleric]], another cleric has advantage on the check to identify the spell. Some spells aren't associated with any class when they're cast, such as when a monster uses its Innate Spellcasting trait.
+
+This Intellegence (Arcana) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
